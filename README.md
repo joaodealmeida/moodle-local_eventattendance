@@ -1,8 +1,9 @@
 # Event Attendance #
 
-TODO Describe the plugin shortly here.
+This plugin makes possible tell others that an user is going to an event or not.
 
-TODO Provide more detailed description here.
+Want to be able to track how many people are attending to events? This plugin adds the possibility of an user to tell he is going to attend an event or not.
+In the future it will be possible to see event attendance statistics.
 
 ## License ##
 
